@@ -1,0 +1,12 @@
+assignment 2
+for animation(website aos)
+npm install aos --save
+for icons (reacticons)
+npm install react-icons --save
+
+rafce se hero section ka pura code ajata hy
+
+https://github.com/FakehaSami36/Personal-Portfolio.git
+
+
+https://github.com/FakehaSami36/Personal-Portfolio.git
